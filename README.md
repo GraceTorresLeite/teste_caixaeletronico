@@ -38,12 +38,12 @@
 
 * Links utilizados na pesquisa para implementar o Docker: 
 
-  -[x] https://github.com/spotify/docker-maven-plugin
+  -[x] [Plugin Spotify](https://github.com/spotify/docker-maven-plugin)
   
-  -[x] https://www.youtube.com/watch?v=0nHSgo4YShU
+  -[x] [Vídeo explicativo](https://www.youtube.com/watch?v=0nHSgo4YShU)
   
-  -[x] https://hub.docker.com/_/maven
+  -[x] [Maven com Docker](https://hub.docker.com/_/maven)
   
-  -[x] https://mvnrepository.com/artifact/com.spotify/docker-maven-plugin/1.2.2
+  -[x] [docker-maven-plugin](https://mvnrepository.com/artifact/com.spotify/docker-maven-plugin/1.2.2)
 
   - Após algumas pesquisas dentre plugins da própria IDE Eclipse, tipos de imagens para incluir o volume desejado, optei por usar o plugin desenvolvido pela Spotify, onde apenas adicionamos o mesmo no arquivo pom.xml da aplicação. 
